@@ -11,7 +11,7 @@ AIMS-AMMI (African Institute for Mathematical Sciences-African Master of Machine
 - (Random) Signal Processing, INSA de Rouen, 2019-2020
 - Numerical Analysis, INSA de Rouen, 2018-2019
 - Remedial Courses in Mathematics, INSA de Rouen, 2018-2019
-- Machine Learning, Polytech Clermont-Ferrand, 2017-2018
+- **Machine Learning**, Polytech Clermont-Ferrand, 2017-2018
 - Probability and Statistics, Polytech Clermont-Ferrand, 2017-2018
 
 ## Publications
