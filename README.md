@@ -1,5 +1,31 @@
 # Ismaila Seck, PhD 
 
+## my year 2022
+
+
+
+As a lecturer/researcher: 
+- I joined African Institute for Mathematical Sciences (AIMS) and the African Master of Machine Intelligence as Post-doctoral Researcher. 
+
+- I gave a lecture on Image Processing and Computer Vision at Université virtuelle du Sénégal (UVS). 
+
+- I was a speaker at the IndabaX Senegal where I talked about adversarial examples. 
+
+As an ML/DL enthusiast who enjoys interacting with other enthusiasts: 
+- I participated to the Kaggle Days , my first in-person since the pre-covid era. The learning experience was amazing, plus I had the opportunity to attend talks from and speak with some Kaggle Grand Masters. 
+
+- I also served as a mentor for the ML Study Jam organized by GalsenAI to help people learn more about Machine Learning/Deep Learning. 
+
+- I have been granted NVIDIA Deep Learning Institute Ambassadorship, that is a great step for my goal of making Deep Learning accessible to more people. 
+
+- I contributed to the translation of the Hugging Face course from English to French. My first contribution to open-source project, the first of many more I hope. 
+
+[Find the original post on linkedin](https://www.linkedin.com/posts/ismailaseck_research-machinelearning-deeplearning-activity-7019578031014846464-Aipn?utm_source=share&utm_medium=member_desktop)
+
+![Kaggle_days!](I_want_the_gift_card_team_and_our_mentor.jpeg "Kaggle days")
+
+
+
 ## Work Experience
 
 #### Post-Doctoral Researcher 
