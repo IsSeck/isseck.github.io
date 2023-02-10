@@ -1,7 +1,7 @@
 # Ismaila Seck, PhD 
 
 ## Recent activities
-- Aside from my research on Automatic Speech Recognition, I launched a reading group to gather members of GalsenAI that are interested in the research part of Deep Learning model, and offer researchers a space to communicate and discuss around subjects that interest them . GalsenAI is in my opinion the most active AI Association in Senegal. You can find a video of our first session here [GalsenAI's reading group](https://youtu.be/-VOG2esUc6I).
+- Aside from my research on Automatic Speech Recognition, I launched a reading group to gather members of GalsenAI that are interested in the research part of Deep Learning model, and offer researchers a space to communicate and discuss around subjects that interest them . GalsenAI is in my opinion the most active AI Association in Senegal. You can find a video of our first session  [here](https://youtu.be/-VOG2esUc6I).
 
 ## my year 2022
 
