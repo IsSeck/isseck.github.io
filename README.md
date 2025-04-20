@@ -4,10 +4,12 @@ email: ismaila@lengo.ai
 ## Recent activities
 - Aside from my research on Automatic Speech Recognition, I launched a reading group to gather members of GalsenAI that are interested in the research part of Deep Learning model, and offer researchers a space to communicate and discuss around subjects that interest them . GalsenAI is in my opinion the most active AI Association in Senegal. You can find a video of our first session  [here](https://youtu.be/-VOG2esUc6I).
 
-## my year 2022
 
+## My year 2024
 
+## My year 2023
 
+## My year 2022
 As a lecturer/researcher: 
 - I joined African Institute for Mathematical Sciences (AIMS) and the African Master of Machine Intelligence as Post-doctoral Researcher. 
 
