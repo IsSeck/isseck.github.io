@@ -8,6 +8,16 @@ email: ismaila@lengo.ai
 ## My year 2024
 
 ## My year 2023
+2023 was a special year for me. Two entities greatly participated in that [Lengo AI](https://www.linkedin.com/company/lengoai/posts/?feedView=all) and [GalsenAI](https://www.linkedin.com/company/galsen-ai/?viewAsMember=true). 
+I joined the admin board of [GalsenAI](https://www.linkedin.com/company/galsen-ai/?viewAsMember=true) with the ambition to gather people sharing passion about AI and research paper around AI. I also happened to state that there should be a before 2023 and an after 2023 for GalsenAI, so far so good. 
+I joined LengoAI as CTO and Co-founder and participated in a successful pre-seed fundraising where we raised 1 million+$.
+
+This year, I renewed with attending gatherings where AI was discussed as participant, panelist and teaching. In all cases, I did learn and did enjoy that. I attended the #DLRL Summer School in Montreal, the AfricArena AI Summit in Tunis, the Deep Learning Indaba and the Google for Startups graduation in Accra. I met wonderful people during those events, some I knew only virtually prior to those events. 
+
+The things I am the most proud are:
+1- Trying to be the best collaborator with all my collaborators. 
+2- Participating in the making of the hashtag#SNAI the Senegalese National Artificial Intelligence Strategy.
+3- Serving the GalsenAI community especially allowing them to get the NVIDIA Fundamentals of Deep Learning certification in my quality of Nvidia Deep Learning Institute Certified Instructor. 
 
 ## My year 2022
 As a lecturer/researcher: 
