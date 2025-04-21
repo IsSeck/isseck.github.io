@@ -5,7 +5,27 @@ email: ismaila@lengo.ai
 - Aside from my research on Automatic Speech Recognition, I launched a reading group to gather members of GalsenAI that are interested in the research part of Deep Learning model, and offer researchers a space to communicate and discuss around subjects that interest them . GalsenAI is in my opinion the most active AI Association in Senegal. You can find a video of our first session  [here](https://youtu.be/-VOG2esUc6I).
 
 
-## My year 2024
+## [My year 2024](https://www.linkedin.com/posts/ismailaseck_2024-was-one-of-my-busiest-years-aside-from-activity-7285210227879084034-aZVz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABcDnBkBR4CAwhmoLM76GyiNwsNK5-8Frvg)
+2024 was one of my busiest years. Aside from my Lengo AI adventure, and my activities at GalsenAI, we launched AI Hub Senegal, an initiative that is federating the actors of the Senegalese Artificial Intelligence ecosystem. A very important in our shared journey to democratize Artificial Intelligence. Here is a sample of my activities during 2024: 
+
+- Lengo AI was feature in Jeune Afrique as one of the 20 Future Champions of Tech: https://lnkd.in/eXXtRzTB. 
+
+- Co-authored a paper published in Transaction on Machine Learning Research (TMLR) with Eugene Ndiaye and Matthew Lau: https://lnkd.in/eyWseE8h.
+
+- Attended NeurIPS again, 7 years after my first attendance, and got the chance to connect in-person with Jonas NGNAWE, Awa Dieng, and Marieme NGOM to name a few. The Black in AI workshop was an opportunity to strengthen the connection to actors of some other African countries AI ecosystem.
+
+- Attended the Deep Learning Indaba for the 2nd time in a row. This edition was special since it was the time that Senegal hosted that event. I got the opportunities to be a panelist in two different panels. I was a keynote speaker and/or panelist at the IndabaX Senegal, IndabaX Congo 🇨🇬 and at IndabaX Chad (by Chad AI Network). 
+
+- Was a speaker at the AMLD Africa in Nairobi Kenya.
+
+- Organized a Machine Learning Study Jam, a month long program to learn/revisiting the fundamentals of Machine Learning, and run it with Rokhaya Diagne and Aïmérou Ndiaye. We manage to get 30% of women of the registration with the help of WiMLDS Dakar. 
+
+- Aïmérou Ndiaye and I also run an in-person training on the "Fundamentals of Deep Learning" and manage to get 50+ participants to be certified from NVIDIA on a single Saturday . I reached the Silver Tier of the Certified Instructor as I run in total 3 workshop (online and in-person) and manage to get 90+ participants certified. 
+
+- Spent more than 100 hours teaching and supervising AI project at Ecole Superieure Multinationale des Telecommunications (ESMT Dakar) and Université numérique Cheikh Hamidou KANE (UN-CHK). 
+
+- Made an appearance at Edtech Mondays on TV5 to talk about at the initiatives the AI Hub Senegal to promote the AI Ecosystem.
+
 
 ## [My year 2023](https://www.linkedin.com/posts/ismailaseck_galsenai-lengoai-dlrl-activity-7153372750835830784-CxmL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABcDnBkBR4CAwhmoLM76GyiNwsNK5-8Frvg)
 2023 was a special year for me. Two entities greatly participated in that [Lengo AI](https://www.linkedin.com/company/lengoai/posts/?feedView=all) and [GalsenAI](https://www.linkedin.com/company/galsen-ai/?viewAsMember=true). 
