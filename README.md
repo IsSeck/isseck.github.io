@@ -7,7 +7,7 @@ email: ismaila@lengo.ai
 
 ## My year 2024
 
-## My year 2023
+## [My year 2023](https://www.linkedin.com/posts/ismailaseck_galsenai-lengoai-dlrl-activity-7153372750835830784-CxmL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABcDnBkBR4CAwhmoLM76GyiNwsNK5-8Frvg)
 2023 was a special year for me. Two entities greatly participated in that [Lengo AI](https://www.linkedin.com/company/lengoai/posts/?feedView=all) and [GalsenAI](https://www.linkedin.com/company/galsen-ai/?viewAsMember=true). 
 I joined the admin board of [GalsenAI](https://www.linkedin.com/company/galsen-ai/?viewAsMember=true) with the ambition to gather people sharing passion about AI and research paper around AI. I also happened to state that there should be a before 2023 and an after 2023 for GalsenAI, so far so good. 
 I joined LengoAI as CTO and Co-founder and participated in a successful pre-seed fundraising where we raised 1 million+$.
