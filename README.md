@@ -35,6 +35,8 @@ I joined LengoAI as CTO and Co-founder and participated in a successful pre-seed
 This year, I renewed with attending gatherings where AI was discussed as participant, panelist and teaching. In all cases, I did learn and did enjoy that. I attended the #DLRL Summer School in Montreal, the AfricArena AI Summit in Tunis, the Deep Learning Indaba and the Google for Startups graduation in Accra. I met wonderful people during those events, some I knew only virtually prior to those events. 
 
 The things I am the most proud are:
+
+
 1- Trying to be the best collaborator with all my collaborators. 
 
 
