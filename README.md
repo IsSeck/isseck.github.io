@@ -36,7 +36,11 @@ This year, I renewed with attending gatherings where AI was discussed as partici
 
 The things I am the most proud are:
 1- Trying to be the best collaborator with all my collaborators. 
+
+
 2- Participating in the making of the hashtag#SNAI the Senegalese National Artificial Intelligence Strategy.
+
+
 3- Serving the GalsenAI community especially allowing them to get the NVIDIA Fundamentals of Deep Learning certification in my quality of Nvidia Deep Learning Institute Certified Instructor. 
 
 ## My year 2022
