@@ -8,9 +8,9 @@ email: ismaila.seck@galsen.ai
 ## [My year 2024](https://www.linkedin.com/posts/ismailaseck_2024-was-one-of-my-busiest-years-aside-from-activity-7285210227879084034-aZVz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABcDnBkBR4CAwhmoLM76GyiNwsNK5-8Frvg)
 2024 was one of my busiest years. Aside from my Lengo AI adventure, and my activities at GalsenAI, we launched AI Hub Senegal, an initiative that is federating the actors of the Senegalese Artificial Intelligence ecosystem. A very important in our shared journey to democratize Artificial Intelligence. Here is a sample of my activities during 2024: 
 
-- Lengo AI was feature in Jeune Afrique as one of the 20 Future Champions of Tech: https://lnkd.in/eXXtRzTB. 
+- Lengo AI was feature in Jeune Afrique as one of the 20 Future Champions of Tech: https:[https://lnkd.in/eXXtRzTB](//lnkd.in/eXXtRzTB). 
 
-- Co-authored a paper published in Transaction on Machine Learning Research (TMLR) with Eugene Ndiaye and Matthew Lau: https://lnkd.in/eyWseE8h.
+- Co-authored a paper published in Transaction on Machine Learning Research (TMLR) with Eugene Ndiaye and Matthew Lau: [https://lnkd.in/eyWseE8h](https://lnkd.in/eyWseE8h).
 
 - Attended NeurIPS again, 7 years after my first attendance, and got the chance to connect in-person with Jonas NGNAWE, Awa Dieng, and Marieme NGOM to name a few. The Black in AI workshop was an opportunity to strengthen the connection to actors of some other African countries AI ecosystem.
 
