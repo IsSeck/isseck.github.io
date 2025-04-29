@@ -4,6 +4,7 @@ email: ismaila.seck.mlearning@gmail.com
 ## Recent activities
 - Aside from my research on Automatic Speech Recognition, I launched a reading group to gather members of GalsenAI that are interested in the research part of Deep Learning model, and offer researchers a space to communicate and discuss around subjects that interest them . GalsenAI is in my opinion the most active AI Association in Senegal. You can find a video of our first session  [here](https://youtu.be/-VOG2esUc6I).
 
+## My year 2025
 
 ## [My year 2024](https://www.linkedin.com/posts/ismailaseck_2024-was-one-of-my-busiest-years-aside-from-activity-7285210227879084034-aZVz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABcDnBkBR4CAwhmoLM76GyiNwsNK5-8Frvg)
 2024 was one of my busiest years. Aside from my Lengo AI adventure, and my activities at GalsenAI, we launched AI Hub Senegal, an initiative that is federating the actors of the Senegalese Artificial Intelligence ecosystem. A very important in our shared journey to democratize Artificial Intelligence. Here is a sample of my activities during 2024: 
